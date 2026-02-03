@@ -159,6 +159,7 @@ h1 {
   font-weight: 700;
   font-size: 1rem;
   align-self: center;
+  text-decoration: underline;
 }
 
 .change:hover {
