@@ -206,4 +206,12 @@ h1 {
     margin-top: -16px;
     padding: 24px;
   }
+
+  .card-header p {
+    font-size: 1rem;
+  }
+
+  .cancel {
+    font-size: 1rem;
+  }
 }
