@@ -49,6 +49,7 @@ main {
   height: 100%;
   display: grid;
   place-items: center;
+  padding-block: 24px;
 }
 
 .bg-pattern-mobile {
@@ -126,6 +127,8 @@ h1 {
   padding: 16px;
   display: flex;
   align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
   gap: 16px;
 }
 
