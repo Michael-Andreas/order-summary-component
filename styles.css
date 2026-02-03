@@ -191,7 +191,17 @@ h1 {
 }
 
 @media (min-width: 640px) {
+
+  .card-content {
+    padding: 48px;
+    gap: 32px;
+  }
+
   h1 {
     font-size: 1.75rem;
+  }
+
+  .plan-info {
+    margin-top: -16px;
   }
 }
